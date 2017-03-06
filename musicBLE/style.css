@@ -1,0 +1,9 @@
+body{
+  perspective: 300px;
+}
+#main {
+  text-align: center;
+}
+img#picasso{
+  margin: auto;
+}
